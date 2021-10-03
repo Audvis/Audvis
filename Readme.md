@@ -34,6 +34,27 @@
 - Sequelize
 - Postgre
 
+## :pushpin: My proyects
+
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+</p>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+</p>
+
+<h3>Pedidotopia</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+</p> 
+&nbsp;
+
 
 ## :paperclip: Contacto:
 
