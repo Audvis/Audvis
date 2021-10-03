@@ -23,6 +23,8 @@
 
 &nbsp;
 
+### Tecnologias
+
 - HTML
 - CSS
 - JavaScript
