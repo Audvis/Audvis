@@ -22,3 +22,11 @@
 </p>
 
 &nbsp;
+
+
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
