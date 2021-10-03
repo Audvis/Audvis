@@ -40,5 +40,6 @@
 ## :paperclip: Contacto:
 <span >
 <a href="https://www.linkedin.com/in/gpedrazafullstack/" ><img width="7%" src="https://img2.freepng.es/20180320/kgq/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453.jpg"> &nbsp;
+  **sgpedrazar@gmail.com**
 <a href="mailto:sgpedrazar@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/653/509/png-transparent-gmail-icon-triangle-text-brand-communication-gmail-angle-text-rectangle-thumbnail.png">
 </span>
