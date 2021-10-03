@@ -38,5 +38,5 @@
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://w7.pngwing.com/pngs/653/509/png-transparent-gmail-icon-triangle-text-brand-communication-gmail-angle-text-rectangle-thumbnail.png">
 </span>
