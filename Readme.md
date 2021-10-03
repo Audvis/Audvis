@@ -38,7 +38,7 @@
 
 <p>
   <a><img width="33%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC1.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC2.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
 </p>
 <p>
