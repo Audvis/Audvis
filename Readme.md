@@ -24,7 +24,15 @@
 &nbsp;
 
 - HTML
-. CSS
+- CSS
+- JavaScript
+- React
+- Redux
+- React Native
+- Node JS
+- Express
+- Sequelize
+- Postgre
 
 
 ## :paperclip: How to reach me:
