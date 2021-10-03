@@ -49,11 +49,6 @@
    <a><img width="12%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherMovil3.png"></a>
    <a><img width="12%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherMovil4.png"></a>
 </p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p>
 
 <h3>Countries App</h3>
 <p>
