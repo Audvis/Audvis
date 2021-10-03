@@ -37,9 +37,10 @@
 ## :pushpin: My proyects
 
 <p>
-  <a><img width="33%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC1.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC1.png"></a>
   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC2.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC3.png"></a>
+   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC4.png"></a>
 </p>
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
