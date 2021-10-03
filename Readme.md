@@ -23,7 +23,8 @@
 
 &nbsp;
 
--HTML
+- HTML
+. CSS
 
 
 ## :paperclip: How to reach me:
