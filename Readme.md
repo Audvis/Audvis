@@ -1,4 +1,4 @@
-![alt text](https://lh4.googleusercontent.com/x_c61lisXjPysBmYL-onW-JtsIge1g5YnA_1pknEwRWzpUzlAMEqshXksPRb9tVBpum3kLXL-Q_Gk30xC_27GYZZw86Imnf9fdFZjPbnYmHlvumFzI_rmndBh7GPWpj3wKcDdckG)
+![alt text](https://github.com/Audvis/Audvis/blob/main/utilities/Yuppies%20Collage%20General%20LinkdIn%20Banner.gif)
 # Full Stack Developer
 
 
