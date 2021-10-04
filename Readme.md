@@ -38,7 +38,6 @@
 https://countriesfront.herokuapp.com/
 
 https://github.com/Audvis/countriesFront
-
 https://github.com/Audvis/countriesBack
 <p>
   <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC1.png"></a>
