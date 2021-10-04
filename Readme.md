@@ -36,7 +36,9 @@
 
 <h3>Countries App</h3>
 https://countriesfront.herokuapp.com/
+
 https://github.com/Audvis/countriesFront
+
 https://github.com/Audvis/countriesBack
 <p>
   <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC1.png"></a>
@@ -51,6 +53,7 @@ https://github.com/Audvis/countriesBack
 
 <h3>Weather App</h3>
 https://weather-app-indol-kappa.vercel.app/
+
 https://github.com/Audvis/weatherApp
 <p>
   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC1.png"></a>
