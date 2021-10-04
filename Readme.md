@@ -18,11 +18,9 @@
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
 </p>
-
 &nbsp;
 
 ### Tecnologias
-
 - HTML
 - CSS
 - JavaScript
@@ -38,6 +36,8 @@
 
 <h3>Countries App</h3>
 https://countriesfront.herokuapp.com/
+https://github.com/Audvis/countriesFront
+https://github.com/Audvis/countriesBack
 <p>
   <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC1.png"></a>
  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC2.png"></a>
@@ -51,6 +51,7 @@ https://countriesfront.herokuapp.com/
 
 <h3>Weather App</h3>
 https://weather-app-indol-kappa.vercel.app/
+https://github.com/Audvis/weatherApp
 <p>
   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC1.png"></a>
   <a><img width="30%" src="https://github.com/Audvis/weatherApp/blob/main/img/weatherPC2.png"></a>
