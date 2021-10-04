@@ -36,7 +36,7 @@
 
 <h3>Countries App</h3>
 https://countriesfront.herokuapp.com/ <br />
-https://github.com/Audvis/countriesFront
+https://github.com/Audvis/countriesFront  <br />
 https://github.com/Audvis/countriesBack
 
 <p>
