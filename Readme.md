@@ -39,9 +39,13 @@
 <h3>Countries App</h3>
 https://countriesfront.herokuapp.com/
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC1.png"></a>
+ <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC2.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC3.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC4.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC5.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC6.png"></a>
+  <a><img width="30%" src="https://github.com/Audvis/countriesFront/blob/main/utilities/countriesPC7.png"></a>
 </p> 
 &nbsp;
 
